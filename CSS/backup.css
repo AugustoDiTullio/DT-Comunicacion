@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Raleway', sans-serif;
+    src: url(https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap) format(woof);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Body index*/
+
+    .h1dtcomunicacion{
+        font-family: 'Raleway', sans-serif;
+    }
+
+    .parrafosection1index{
+        display: flex;
+        justify-content: center;
+    }
+
+/* Fin Body index*/
+
+
+/*Body What we do*/
+
+/*Fin Body What we do*/
+
+
+/*Body DT FAMILY*/
+
+/*Fin Body DT FAMILY*/
+
+
+/*Body Works*/
+
+/*Fin Body Works*/
+
+
+
+/*Body Blog*/
+
+/*Fin Body Blog*/
+
+
+
+/*Body Contact us*/
+
+/*Fin Body Contact us*/
+
+
+
+/*Header*/
+
+    header{
+        background-color: #eecaca;
+        position: fixed;
+    }
+
+/*Fin Header*/
+
+
+/*Footer*/
+
+    .socialbar{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .imagenesredes{
+        width: 36px;
+        height: 36px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+/* Fin Footer*/
